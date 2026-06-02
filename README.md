@@ -1,5 +1,7 @@
 # Keyboard Tracker
 
+[中文文档](./README_CN.md)
+
 Windows keyboard and mouse activity tracker with real-time heatmap visualization.
 
 Track your typing and clicking habits — which keys you press most, how far your mouse travels, and when you're most active.
